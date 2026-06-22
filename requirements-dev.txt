@@ -61,9 +61,9 @@ gunicorn==20.1.0 ; python_version >= "3.7" \
     --hash=sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8
 htmlmin==0.1.12 ; python_version >= "3.7" \
     --hash=sha256:50c1ef4630374a5d723900096a961cff426dff46b48f34d194a81bbe14eca178
-idna==3.3 ; python_version >= "3.7" \
-    --hash=sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff \
-    --hash=sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d
+idna==3.7 ; python_version >= "3.7" \
+    --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
+    --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
 importlib-metadata==4.2.0 ; python_version < "3.8" and python_version >= "3.7" \
     --hash=sha256:057e92c15bc8d9e8109738a48db0ccb31b4d9d5cfbee5a8670879a30be66304b \
     --hash=sha256:b7e52a1f8dec14a75ea73e0891f3060099ca1d8e6a462a4dff11c3e119ea1b31

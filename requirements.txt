@@ -218,9 +218,9 @@ rjsmin==1.2.0 ; python_version >= "3.7" \
 setuptools==68.0.0 ; python_version >= "3.7" \
     --hash=sha256:11e52c67415a381d10d6b462ced9cfb97066179f0e871399e006c4ab101fc85f \
     --hash=sha256:baf1fdb41c6da4cd2eae722e135500da913332ab3f2f5c7d33af9b492acb5235
-sqlparse==0.4.2 ; python_version >= "3.7" \
-    --hash=sha256:0c00730c74263a94e5a9919ade150dfc3b19c574389985446148402998287dae \
-    --hash=sha256:48719e356bb8b42991bdbb1e8b83223757b93789c00910a616a071910ca4a64d
+sqlparse==0.5.1 ; python_version >= "3.7" \
+    --hash=sha256:773dcbf9a5ab44a090f3441e2180efe2560220203dc2f8c0b0fa141e18b505e4 \
+    --hash=sha256:bb6b4df465655ef332548e24f08e205afc81b9ab86cb1c45657a7ff173a3a00e
 uritemplate==4.1.1 ; python_version >= "3.7" \
     --hash=sha256:4346edfc5c3b79f694bccd6d6099a322bbeb628dbf2cd86eea55a456ce5124f0 \
     --hash=sha256:830c08b8d99bdd312ea4ead05994a38e8936266f84b9a7878232db50b044e02e

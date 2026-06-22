@@ -402,9 +402,9 @@ setuptools==68.0.0 ; python_version >= "3.7" \
 six==1.16.0 ; python_version >= "3.7" \
     --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
     --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
-sqlparse==0.4.2 ; python_version >= "3.7" \
-    --hash=sha256:0c00730c74263a94e5a9919ade150dfc3b19c574389985446148402998287dae \
-    --hash=sha256:48719e356bb8b42991bdbb1e8b83223757b93789c00910a616a071910ca4a64d
+sqlparse==0.5.1 ; python_version >= "3.7" \
+    --hash=sha256:773dcbf9a5ab44a090f3441e2180efe2560220203dc2f8c0b0fa141e18b505e4 \
+    --hash=sha256:bb6b4df465655ef332548e24f08e205afc81b9ab86cb1c45657a7ff173a3a00e
 toml==0.10.2 ; python_version >= "3.7" \
     --hash=sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b \
     --hash=sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f
